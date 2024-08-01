@@ -1,0 +1,22 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+matplotlib = "*"
+psycopg2 = "*"
+networkx = "*"
+lxml = "*"
+scikit-learn = "*"
+numpy = "*"
+scipy = "*"
+jupyter = "*"
+gurobipy = "*"
+llama-cpp-python = "*"
+
+[dev-packages]
+ipykernel = "*"
+
+[requires]
+python_version = "3.12"

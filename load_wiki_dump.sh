@@ -1,0 +1,1 @@
+PYTHONPATH=.:loaders/wikiextractor python loaders/load_wiki_dump.py config.json  ~/path/to/enwiki-multistream 

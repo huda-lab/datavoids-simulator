@@ -1,0 +1,7 @@
+.DS_Store
+config.json
+__pycache__
+google_sheet_api_credentials.json
+gsa_cred.json
+Pipfile.lock
+.vscode

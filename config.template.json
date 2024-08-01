@@ -1,0 +1,43 @@
+{
+  "database": {
+    "host": "localhost",
+    "user": "postgres",
+    "password": "postgres",
+    "database": "wikidump"
+  },
+  "stored_functions_dir": "./database/functions/",
+  "target_groups": [
+    "mit",
+    "dis",
+    "None"
+  ],
+  "groups_colors": {
+    "mit": "#16a085",
+    "dis": "#f39c12",
+    "None": "#000000"
+  },
+  "mitigator_keyword": "mit",
+  "disinformer_keyword": "dis",
+  "mit_keywords": [],
+  "dis_keywords": [],
+  "target_node": {
+    "bay": 404412,
+    "fre": 15537745
+  },
+  "page_rank_at_each_step": false,
+  "compute_initial_rage_rank": false,
+  "top_k": 1000,
+  "steps_config": {
+    "max_steps": -1,
+    "max_atomic_steps": -1,
+    "on_each_node": true,
+    "on_each_edge": false
+  },
+  "costs": {
+    "budget": -1 
+  },
+  "labeling_hops": 1,
+  "datavoids": [],
+  "output_filename": null,
+  "gzip": true
+}
