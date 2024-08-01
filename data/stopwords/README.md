@@ -1,0 +1,1 @@
+Download stopwords from: https://github.com/igorbrigadir/stopwords
