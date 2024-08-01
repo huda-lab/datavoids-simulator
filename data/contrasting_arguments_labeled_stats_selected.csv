@@ -1,0 +1,118 @@
+Mitigator,Disinformer,Mitigator_URL,Disinformer_URL,Mitigator_ID,Disinformer_ID,Labeled_Mitigator,Labeled_Disinformer,Ratio,Selected
+Synchronous Communication,Asynchronous Communication,https://en.wikipedia.org/wiki/Synchronization_(computer_science),https://en.wikipedia.org/wiki/Asynchrony_(computer_programming),4726017,49031794,1,1,0,0
+White Box Testing,Black Box Testing,https://en.wikipedia.org/wiki/White-box_testing,https://en.wikipedia.org/wiki/Black-box_testing,768799,275909,16,16,0,0
+Declarative Language,Procedural Language,https://en.wikipedia.org/wiki/Declarative_programming,https://en.wikipedia.org/wiki/Procedural_programming,210648,23801,55,55,0,1
+Stack Memory,Heap Memory,https://en.wikipedia.org/wiki/Stack_(abstract_data_type),https://en.wikipedia.org/wiki/Heap_(data_structure),273993,13996,1,1,0,0
+Optimism,Pessimism,https://en.wikipedia.org/wiki/Optimism,https://en.wikipedia.org/wiki/Pessimism,47487167,24743,155,155,0,1
+Public Sector,Private Sector,https://en.wikipedia.org/wiki/Public_sector,https://en.wikipedia.org/wiki/Private_sector,334803,251540,857,857,0,0
+Functionalism in Architecture,Formalism in Architecture,https://en.wikipedia.org/wiki/Functionalism_(architecture),https://en.wikipedia.org/wiki/Formalism_(art),568755,773685,1,1,0,0
+Realism in International Relations,Liberalism in International Relations,https://en.wikipedia.org/wiki/Realism_(international_relations),https://en.wikipedia.org/wiki/Liberalism_(international_relations),2940911,34228932,1,1,0,0
+Innovation,Tradition,https://en.wikipedia.org/wiki/Innovation,https://en.wikipedia.org/wiki/Tradition,118450,30067,1079,1078,0.0004026838322,0
+Analytic Philosophy,Continental Philosophy,https://en.wikipedia.org/wiki/Analytic_philosophy,https://en.wikipedia.org/wiki/Continental_philosophy,159211,309641,626,625,0.0006943158664,0
+Deductive Reasoning,Inductive Reasoning,https://en.wikipedia.org/wiki/Deductive_reasoning,https://en.wikipedia.org/wiki/Inductive_reasoning,61093,393736,154,153,0.002829290019,0
+Supervised Learning,Unsupervised Learning,https://en.wikipedia.org/wiki/Supervised_learning,https://en.wikipedia.org/wiki/Unsupervised_learning,20926,233497,100,99,0.004364805402,0
+Rationalism,Empiricism,https://en.wikipedia.org/wiki/Rationalism,https://en.wikipedia.org/wiki/Empiricism,63753,10174,537,531,0.004879764618,1
+Depth-First Search,Breadth-First Search,https://en.wikipedia.org/wiki/Depth-first_search,https://en.wikipedia.org/wiki/Breadth-first_search,97034,97026,78,77,0.005603877518,0
+Liberalism,Conservatism,https://en.wikipedia.org/wiki/Liberalism,https://en.wikipedia.org/wiki/Conservatism,19280734,6675,2586,2419,0.02899265218,0
+Imperialism,Colonialism,https://en.wikipedia.org/wiki/Imperialism,https://en.wikipedia.org/wiki/Colonialism,15316,7299,1297,1417,0.03842987416,0
+Bottom-Up Parsing,Top-Down Parsing,https://en.wikipedia.org/wiki/Bottom-up_parsing,https://en.wikipedia.org/wiki/Top-down_parsing,679521,339102,9,8,0.05115252245,0
+Interlaced Scanning,Progressive Scanning,https://en.wikipedia.org/wiki/Interlaced_video,https://en.wikipedia.org/wiki/Progressive_scan,56189,149129,76,86,0.05368485896,0
+Consumerism,Minimalism,https://en.wikipedia.org/wiki/Consumerism,https://en.wikipedia.org/wiki/Minimalism,170522,20836,763,885,0.06441873274,0
+Formal Language,Natural Language,https://en.wikipedia.org/wiki/Formal_language,https://en.wikipedia.org/wiki/Natural_language,10939,21173,356,419,0.07076402499,0
+Monotheism,Polytheism,https://en.wikipedia.org/wiki/Monotheism,https://en.wikipedia.org/wiki/Polytheism,19522,19195836,392,333,0.07084183351,0
+Block Cipher,Stream Cipher,https://en.wikipedia.org/wiki/Block_cipher,https://en.wikipedia.org/wiki/Stream_cipher,4594,49007,195,164,0.07519076331,0
+Open Source,Proprietary Software,https://en.wikipedia.org/wiki/Open-source_software,https://en.wikipedia.org/wiki/Proprietary_software,277663,18934886,767,912,0.07519947438,0
+Logical Positivism,Post-structuralism,https://en.wikipedia.org/wiki/Logical_positivism,https://en.wikipedia.org/wiki/Post-structuralism,18403,24902,215,266,0.09244317672,0
+Capitalism,Socialism,https://en.wikipedia.org/wiki/Capitalism,https://en.wikipedia.org/wiki/Socialism,5416,26847,2704,3400,0.09947222977,0
+Direct Democracy,Representative Democracy,https://en.wikipedia.org/wiki/Direct_democracy,https://en.wikipedia.org/wiki/Representative_democracy,95816,52318,741,577,0.1086423948,0
+Pacifism,Militarism,https://en.wikipedia.org/wiki/Pacifism,https://en.wikipedia.org/wiki/Militarism,24956,199160,749,548,0.1357012592,0
+Lossy Compression,Lossless Compression,https://en.wikipedia.org/wiki/Lossy_compression,https://en.wikipedia.org/wiki/Lossless_compression,18208,18209,111,80,0.1422329918,0
+Time Division Multiplexing,Frequency Division Multiplexing,https://en.wikipedia.org/wiki/Time-division_multiplexing,https://en.wikipedia.org/wiki/Frequency-division_multiplexing,41796,86376,81,57,0.1526101632,0
+Capital Punishment,Life Imprisonment,https://en.wikipedia.org/wiki/Capital_punishment,https://en.wikipedia.org/wiki/Life_imprisonment,5902,148681,1915,2779,0.1617197685,0
+Synchronous Learning,Asynchronous Learning,https://en.wikipedia.org/wiki/Synchronous_learning,https://en.wikipedia.org/wiki/Asynchronous_learning,5012810,1340846,11,16,0.1627272975,0
+Raster Graphics,Vector Graphics,https://en.wikipedia.org/wiki/Raster_graphics,https://en.wikipedia.org/wiki/Vector_graphics,25742,32499,167,256,0.1855234942,0
+Idealism,Materialism,https://en.wikipedia.org/wiki/Idealism,https://en.wikipedia.org/wiki/Materialism,15428,19376,503,772,0.1860493153,0
+Urbanization,Rural Life,https://en.wikipedia.org/wiki/Urbanization,https://en.wikipedia.org/wiki/Rural_area,56114,212614,1237,782,0.1991629466,0
+Essentialism,Constructionism,https://en.wikipedia.org/wiki/Essentialism,https://en.wikipedia.org/wiki/Social_constructionism,48081,203510,169,269,0.2018655754,0
+Physicalism,Dualism,https://en.wikipedia.org/wiki/Physicalism,https://en.wikipedia.org/wiki/Dualism,23479,11142067,113,187,0.2187631631,0
+Ethnocentrism,Cultural Relativism,https://en.wikipedia.org/wiki/Ethnocentrism,https://en.wikipedia.org/wiki/Cultural_relativism,9827,54943,235,142,0.2187795179,0
+Multilateralism,Unilateralism,https://en.wikipedia.org/wiki/Multilateralism,https://en.wikipedia.org/wiki/Unilateralism,427559,607637,98,58,0.2277980821,0
+Classical Economics,Keynesian Economics,https://en.wikipedia.org/wiki/Classical_economics,https://en.wikipedia.org/wiki/Keynesian_economics,227141,17326,168,287,0.232572615,1
+Quantitative Research,Qualitative Research,https://en.wikipedia.org/wiki/Quantitative_research,https://en.wikipedia.org/wiki/Qualitative_research,389564,371299,110,188,0.2327651641,0
+First Normal Form,Third Normal Form,https://en.wikipedia.org/wiki/First_normal_form,https://en.wikipedia.org/wiki/Third_normal_form,202564,202566,9,16,0.2498774732,0
+Despotism,Anarchy,https://en.wikipedia.org/wiki/Despotism,https://en.wikipedia.org/wiki/Anarchy,47497309,27097632,184,346,0.2742582758,0
+Existentialism,Determinism,https://en.wikipedia.org/wiki/Existentialism,https://en.wikipedia.org/wiki/Determinism,9593,47922,766,389,0.2942791683,0
+Location Transparency,Location Awareness,https://en.wikipedia.org/wiki/Location_transparency,https://en.wikipedia.org/wiki/Location_awareness,1959320,21016331,9,18,0.3010299957,0
+Greedy Algorithm,Dynamic Programming,https://en.wikipedia.org/wiki/Greedy_algorithm,https://en.wikipedia.org/wiki/Dynamic_programming,89247,125297,143,288,0.3040564503,0
+Egalitarianism,Elitism,https://en.wikipedia.org/wiki/Egalitarianism,https://en.wikipedia.org/wiki/Elitism,10113,14654024,430,204,0.3238382882,0
+Renewable Energy,Fossil Fuels,https://en.wikipedia.org/wiki/Renewable_energy,https://en.wikipedia.org/wiki/Fossil_fuel,25784,48146,2384,1080,0.3438824956,0
+Modernism,Postmodernism,https://en.wikipedia.org/wiki/Modernism,https://en.wikipedia.org/wiki/Postmodernism,19547,23603,2533,1127,0.3517112737,0
+Multiculturalism,Assimilation,https://en.wikipedia.org/wiki/Multiculturalism,https://en.wikipedia.org/wiki/Cultural_assimilation,51885,505730,979,435,0.3522934348,0
+Pluralism,Monism,https://en.wikipedia.org/wiki/Pluralism,https://en.wikipedia.org/wiki/Monism,9482079,19325,138,313,0.3556652511,0
+Religious Freedom,Theocracy,https://en.wikipedia.org/wiki/Freedom_of_religion,https://en.wikipedia.org/wiki/Theocracy,46006,30875,964,425,0.3556881039,0
+Nihilism,Absolutism,https://en.wikipedia.org/wiki/Nihilism,https://en.wikipedia.org/wiki/Absolutism,21663,149650,507,210,0.3827886646,0
+Religious Faith,Skepticism,https://en.wikipedia.org/wiki/Faith,https://en.wikipedia.org/wiki/Skepticism,11064,26810,1133,462,0.3895879343,0
+Protectionism,Free Trade,https://en.wikipedia.org/wiki/Protectionism,https://en.wikipedia.org/wiki/Free_trade,153023,59212,642,1612,0.3998300094,0
+Consensus Decision-Making,Majoritarianism,https://en.wikipedia.org/wiki/Consensus_decision-making,https://en.wikipedia.org/wiki/Majoritarianism,165760,617451,107,42,0.4061344873,0
+Behavior-Driven Development,Test-Driven Development,https://en.wikipedia.org/wiki/Behavior-driven_development,https://en.wikipedia.org/wiki/Test-driven_development,2965801,357881,25,64,0.4082399653,0
+Individualism,Collectivism,https://en.wikipedia.org/wiki/Individualism,https://en.wikipedia.org/wiki/Collectivism,15181,5708,607,231,0.4195767112,0
+Descriptive Statistics,Inferential Statistics,https://en.wikipedia.org/wiki/Descriptive_statistics,https://en.wikipedia.org/wiki/Statistical_inference,8187,27577,78,207,0.4238757428,0
+Static Analysis,Dynamic Analysis,https://en.wikipedia.org/wiki/Static_program_analysis,https://en.wikipedia.org/wiki/Dynamic_program_analysis,28811,5463848,69,24,0.458637849,0
+Normalization (databases),Denormalization,https://en.wikipedia.org/wiki/Database_normalization,https://en.wikipedia.org/wiki/Denormalization,8640,8561,45,15,0.4771212547,0
+Free Market,Planned Economy,https://en.wikipedia.org/wiki/Free_market,https://en.wikipedia.org/wiki/Planned_economy,11826,7843,1051,349,0.4787772891,0
+Monarchy,Republic,https://en.wikipedia.org/wiki/Monarchy,https://en.wikipedia.org/wiki/Republic,19013,25536,1797,5619,0.495110955,0
+Fixed-Point Arithmetic,Floating-Point Arithmetic,https://en.wikipedia.org/wiki/Fixed-point_arithmetic,https://en.wikipedia.org/wiki/Floating-point_arithmetic,449736,11376,40,130,0.511883361,0
+Absolutism in Ethics,Relativism in Ethics,https://en.wikipedia.org/wiki/Moral_absolutism,https://en.wikipedia.org/wiki/Moral_relativism,49062,48053,44,144,0.5149098156,0
+Public School,Private School,https://en.wikipedia.org/wiki/State_school,https://en.wikipedia.org/wiki/Private_school,471603,612857,404,1407,0.5419127323,0
+Social Democracy,Liberal Democracy,https://en.wikipedia.org/wiki/Social_democracy,https://en.wikipedia.org/wiki/Liberal_democracy,18247265,9282116,2876,805,0.5529930013,0
+Humanism,Transhumanism,https://en.wikipedia.org/wiki/Humanism,https://en.wikipedia.org/wiki/Transhumanism,5135982,30299,1096,306,0.5540891277,0
+Digital Signature,Digital Certificate,https://en.wikipedia.org/wiki/Digital_signature,https://en.wikipedia.org/wiki/Public_key_certificate,59644,223796,269,73,0.5664294199,0
+Eigenvalues and Eigenvectors,Singular Value Decomposition,https://en.wikipedia.org/wiki/Eigenvalues_and_eigenvectors,https://en.wikipedia.org/wiki/Singular_value_decomposition,2161429,142207,39,152,0.5907789809,0
+Human Rights,State Sovereignty,https://en.wikipedia.org/wiki/Human_rights,https://en.wikipedia.org/wiki/Sovereignty,13831,28791,6985,1770,0.5961931441,0
+Functional Programming,Imperative Programming,https://en.wikipedia.org/wiki/Functional_programming,https://en.wikipedia.org/wiki/Imperative_programming,10933,197847,320,81,0.5966649594,0
+Descriptive Ethics,Normative Ethics,https://en.wikipedia.org/wiki/Descriptive_ethics,https://en.wikipedia.org/wiki/Normative_ethics,306366,22081,19,83,0.6403244914,0
+Democracy,Authoritarianism,https://en.wikipedia.org/wiki/Democracy,https://en.wikipedia.org/wiki/Authoritarianism,7959,21347657,3119,693,0.6532821401,0
+Renaissance Art,Modern Art,https://en.wikipedia.org/wiki/Renaissance_art,https://en.wikipedia.org/wiki/Modern_art,311401,163543,250,1228,0.6912583581,0
+Vertical Integration,Horizontal Integration,https://en.wikipedia.org/wiki/Vertical_integration,https://en.wikipedia.org/wiki/Horizontal_integration,206269,206215,213,42,0.705130313,0
+Bayesian Statistics,Frequentist Statistics,https://en.wikipedia.org/wiki/Bayesian_probability,https://en.wikipedia.org/wiki/Frequentist_inference,404412,15537745,116,22,0.7220353084,0
+Tabula Rasa,Innate Ideas,https://en.wikipedia.org/wiki/Tabula_rasa,https://en.wikipedia.org/wiki/Innatism,31212,1287236,133,25,0.7259116323,0
+Secularism,Fundamentalism,https://en.wikipedia.org/wiki/Secularism,https://en.wikipedia.org/wiki/Fundamentalism,27113,11582,1432,269,0.726190738,0
+Atheism,Theism,https://en.wikipedia.org/wiki/Atheism,https://en.wikipedia.org/wiki/Theism,15247542,30843,1444,259,0.7462674292,0
+Graph Theory,Network Theory,https://en.wikipedia.org/wiki/Graph_theory,https://en.wikipedia.org/wiki/Network_theory,12401,766409,1330,214,0.7934378676,0
+Creationism,Evolutionism,https://en.wikipedia.org/wiki/Creationism,https://en.wikipedia.org/wiki/Evolution,5326,42653550,540,3707,0.8366288262,0
+Inflation,Deflation,https://en.wikipedia.org/wiki/Inflation,https://en.wikipedia.org/wiki/Deflation,38286,48847,1911,264,0.8596567602,0
+Correlation Does Not Imply Causation,Causal Relationship,https://en.wikipedia.org/wiki/Correlation_does_not_imply_causation,https://en.wikipedia.org/wiki/Causality,39834,37196,70,509,0.8616197423,0
+Microservices,Monolithic Architecture,https://en.wikipedia.org/wiki/Microservices,https://en.wikipedia.org/wiki/Monolithic_application,43509183,7023871,78,10,0.8920946027,0
+Manual Labor,Automation,https://en.wikipedia.org/wiki/Manual_labour,https://en.wikipedia.org/wiki/Automation,19389176,173354,108,847,0.8944596548,0
+Social Justice,Meritocracy,https://en.wikipedia.org/wiki/Social_justice,https://en.wikipedia.org/wiki/Meritocracy,48990,20971,2185,265,0.9162055674,0
+Defensive Programming,Offensive Programming,https://en.wikipedia.org/wiki/Defensive_programming,https://en.wikipedia.org/wiki/Offensive_programming,62661,51513636,19,2,0.9777236053,0
+Comedy,Tragedy,https://en.wikipedia.org/wiki/Comedy,https://en.wikipedia.org/wiki/Tragedy,20914042,57993,11986,1241,0.9849024919,0
+High Culture,Popular Culture,https://en.wikipedia.org/wiki/High_culture,https://en.wikipedia.org/wiki/Popular_culture,1396834,18993927,167,1638,0.9915974263,0
+Continuous Integration,Continuous Deployment,https://en.wikipedia.org/wiki/Continuous_integration,https://en.wikipedia.org/wiki/Continuous_deployment,1774081,36120070,121,12,1.003604124,0
+Scalar Processors,Vector Processors,https://en.wikipedia.org/wiki/Scalar_processor,https://en.wikipedia.org/wiki/Vector_processor,2938351,58205,9,92,1.009545318,0
+Populism,Technocracy,https://en.wikipedia.org/wiki/Populism,https://en.wikipedia.org/wiki/Technocracy,211484,1325116,1264,122,1.015387243,0
+Symmetric Encryption,Asymmetric Encryption,https://en.wikipedia.org/wiki/Symmetric-key_algorithm,https://en.wikipedia.org/wiki/Public-key_cryptography,53042,24222,24,249,1.015988105,0
+Centralization,Decentralization,https://en.wikipedia.org/wiki/Centralisation,https://en.wikipedia.org/wiki/Decentralization,323090,49139,49,533,1.036531129,0
+Isolationism,Interventionism,https://en.wikipedia.org/wiki/Isolationism,https://en.wikipedia.org/wiki/Interventionism,15048,327855,287,26,1.042908549,0
+Environmentalism,Anthropocentrism,https://en.wikipedia.org/wiki/Environmentalism,https://en.wikipedia.org/wiki/Anthropocentrism,1866009,191703,1477,120,1.090199249,0
+Supply-Side Economics,Demand-Side Economics,https://en.wikipedia.org/wiki/Supply-side_economics,https://en.wikipedia.org/wiki/Demand-side_economics,174607,51139928,127,10,1.103803721,0
+Monolingualism,Multilingualism,https://en.wikipedia.org/wiki/Monolingualism,https://en.wikipedia.org/wiki/Multilingualism,1068783,1570983,16,236,1.16879202,0
+Quantum Mechanics,Classical Physics,https://en.wikipedia.org/wiki/Quantum_mechanics,https://en.wikipedia.org/wiki/Classical_physics,25202,151066,2244,150,1.174931594,0
+Pure Functions,Impure Functions,https://en.wikipedia.org/wiki/Pure_function,https://en.wikipedia.org/wiki/Side_effect_(computer_science),5619321,29519,16,1,1.204119983,0
+Greenfield Project,Brownfield Project,https://en.wikipedia.org/wiki/Greenfield_project,https://en.wikipedia.org/wiki/Brownfield_(software_development),2118229,757980,18,1,1.255272505,0
+Sustainability,Exploitation,https://en.wikipedia.org/wiki/Sustainability,https://en.wikipedia.org/wiki/Exploitation_of_natural_resources,18413531,479209,1990,109,1.261426578,0
+Nomadic,Sedentary Lifestyle,https://en.wikipedia.org/wiki/Nomad,https://en.wikipedia.org/wiki/Sedentism,10886448,2666973,1111,60,1.267562809,0
+Inheritance (OOP),Composition (OOP),https://en.wikipedia.org/wiki/Inheritance_(object-oriented_programming),https://en.wikipedia.org/wiki/Object_composition,2617746,1911078,1,21,1.322219295,0
+Nationalism,Globalism,https://en.wikipedia.org/wiki/Nationalism,https://en.wikipedia.org/wiki/Globalism,21748,708208,2777,127,1.339772159,0
+Indigenous Knowledge,Scientific Knowledge,https://en.wikipedia.org/wiki/Traditional_knowledge,https://en.wikipedia.org/wiki/Science,3373310,26700,221,5506,1.396443933,0
+Feminism,Traditionalism,https://en.wikipedia.org/wiki/Feminism,https://en.wikipedia.org/wiki/Traditionalist_conservatism,11185,13715070,2706,95,1.454604187,0
+Competitive Programming,Software Engineering,https://en.wikipedia.org/wiki/Competitive_programming,https://en.wikipedia.org/wiki/Software_engineering,34493264,27010,30,1057,1.546953733,0
+Federalism,Unitarism,https://en.wikipedia.org/wiki/Federalism,https://en.wikipedia.org/wiki/Unitarism,11542,868301,1051,16,1.817482733,0
+Multithreading,Multiprocessing,https://en.wikipedia.org/wiki/Multithreading_(computer_architecture),https://en.wikipedia.org/wiki/Multiprocessing,10520679,64020,1,134,2.127104798,0
+Vertical Farming,Traditional Agriculture,https://en.wikipedia.org/wiki/Vertical_farming,https://en.wikipedia.org/wiki/Agriculture,3555585,627,57,8882,2.192635913,0
+Recursion,Iteration,https://en.wikipedia.org/wiki/Recursion_(computer_science),https://en.wikipedia.org/wiki/Iteration,4044867,68833,1,176,2.245512668,0
+Mechanism,Vitalism,https://en.wikipedia.org/wiki/Mechanism_(philosophy),https://en.wikipedia.org/wiki/Vitalism,39127306,168322,1,241,2.382017043,0
+Behaviorism,Cognitivism in Psychology,https://en.wikipedia.org/wiki/Behaviorism,https://en.wikipedia.org/wiki/Cognitivism_(psychology),540801,313565,408,1,2.610660163,0
+Laissez-faire,Interventionism,https://en.wikipedia.org/wiki/Laissez-faire,https://en.wikipedia.org/wiki/Interventionism_(politics),165451,1958801,778,1,2.890979597,0
+Realism in Art,Abstract Art,https://en.wikipedia.org/wiki/Realism_(arts),https://en.wikipedia.org/wiki/Abstract_art,21244047,184854,1,800,2.903089987,0
+Civil Law,Common Law,https://en.wikipedia.org/wiki/Civil_law_(legal_system),https://en.wikipedia.org/wiki/Common_law,1048798,5254,1,3174,3.501606922,0
