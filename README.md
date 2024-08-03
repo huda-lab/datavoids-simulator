@@ -1,5 +1,29 @@
+# Datavoids Web Simulator
 
-## Python environment
+This web simulator explores the dynamics of data voids and the effectiveness of different mitigation strategies. A data void occurs when there is a lack of relevant information online for certain search keywords, which can be exploited to spread disinformation. The entire English Wikipedia is used as dataset to simulate a web of hyperlinked Web pages.
+
+Our simulator models an adversarial game between disinformers and mitigators, each attempting to influence search engine rankings by adding content to fill these voids:
+
+- Simulation of Data Voids: the simulator constructs data voids by removing relevant pages from the Wikipedia dataset, creating an environment where search queries return few or no relevant results, mimicking real-world scenarios where data voids can be exploited.
+
+- Adversarial Game Model: disinformers and mitigators take turns adding content to the dataset. Disinformers aim to promote misleading information, while mitigators attempt to counteract this by adding accurate information.
+
+- Evaluation of Strategies: the simulator evaluates various strategies for both disinformers and mitigators. Strategies include Random, Greedy, and Multiobjective approaches, each with different resource allocations and impact levels.
+
+- Tracking and Analysis: the simulator tracks the changes in search result rankings over time, providing insights into the effectiveness of different mitigation efforts.
+
+Some of the results can be illustrated from our main research paper. The following figure shows the difference in effects between the mitigator and disinformer at every turn of the web search simulation across four data void scenarios:
+
+![figure3](https://github.com/user-attachments/assets/16aafae9-fd1b-4e29-89f1-993f1fdbd78b)
+
+This figure illustrates the costs associated with different mitigator strategies at each turn of the web search simulation across the same four data void scenarios as the previous figure.
+
+![figure4](https://github.com/user-attachments/assets/fb017999-d14e-40bc-90df-3fee471410f0)
+
+
+## Running the simulator 
+
+### Python environment
 
 ```bash
 pipenv install
@@ -9,7 +33,7 @@ pipenv --venv # To know where is the virtual environment path
 
 Specify that environment path as path in anytime a Jupyter Notebook in VSCode need to be run.
 
-## Project configuration
+### Project configuration
 
 The project is configured by a file `config.json`. This file is not included in this repository, but a template of this file is available as  `config.template.json`.
 
@@ -61,7 +85,7 @@ An example here:
 }
 ```
 
-## Create the database
+### Create the database
 
 Install Postgres and create a database to contain the whole Wikipedia dataset.
 
@@ -124,7 +148,7 @@ alternatively, an existing DB dump is already available of an already imported W
 psql -U postgres -d wikidump -f ~/path/to/wikidump.sql
 ```
 
-## Load stopwords
+### Load stopwords
 
 Execute the following:
 
@@ -202,7 +226,7 @@ file                                                          |  size  |  source
 [ATIRE (Puurula)](en/atire_puurula.txt)                       |  988   |  [ ⇱ ](http://www.atire.org/hg/atire/file/tip/source/stop_word.c)                                                                                               |  Included in ATIRE See [Paper](http://www.aclweb.org/anthology/U13-1013)
 [Alir3z4](en/alir3z4.txt)                                     |  1298  |  [ ⇱ ](https://github.com/Alir3z4/stop-words/blob/master/english.txt)                                                                                           |  List of common stop words in various languages. The English list looks like merged from several sources.
 
-## TF-IDF
+### TF-IDF
 
 Compute TF-IDF following the notebook `tf_idf.ipynb`. The reason is not a straighforward python file to execute is to give enough configurability in this part. For example IDF is only computed on the topics you are interested about, but a command to calculate for all pages in wikipedia is commented out and available, but it might take several weeks to run on a laptop.
 
@@ -214,9 +238,9 @@ Alternatively a computed TF-IDF is stored in `wikidump_tf_idf.sql` and you can i
 psql -U postgres -d wikidump -f ~/path/to/wikidump_tf_idf.sql
 ```
 
-## Performances (optional)
+### Performances (optional)
 
-### Postgres
+#### Postgres
 
 Increase shared_buffers to 1/4 of your RAM
 
@@ -246,7 +270,7 @@ Restart postgres
 brew services restart postgresql@14
 ```
 
-### Test with wikilite (optional)
+#### Test with wikilite (optional)
 
 In order to run faster simulation in development phase is possible to run in a smaller copy of the wikipedia pages network 
 containing only nodes that are labeled, its neighgboors, and a random sample of the unlabeled ones.
@@ -263,7 +287,7 @@ Then everytime you run a simulation have `wikilite` as database instead of anoth
 database name is reserved for this kind of execution where tables like `nodes` is copied in a smaller
 one to improve simulation performances.
 
-## Important Folders and files
+### Important Folders and files
 
 - *docs* folder contains some more details about the simulator with the description of strategies, how costs were modeled and various documents explaing the decision making behind.
 
